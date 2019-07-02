@@ -1,2 +1,5 @@
-CS 61: Systems Programming and Machine Organization (2018)
+Harvard - CS 61: Systems Programming and Machine Organization (2018)
 https://cs61.seas.harvard.edu/site/2018/
+
+University of Pittsburg - CS 0449 Systems Software
+https://sites.google.com/site/wonsunahn/teaching/cs-0449-systems-software
