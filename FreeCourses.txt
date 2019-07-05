@@ -3,3 +3,6 @@ https://cs61.seas.harvard.edu/site/2018/
 
 University of Pittsburg - CS 0449 Systems Software
 https://sites.google.com/site/wonsunahn/teaching/cs-0449-systems-software
+
+
+https://github.com/onethawt/reverseengineering-reading-list
