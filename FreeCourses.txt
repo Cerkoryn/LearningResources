@@ -6,3 +6,5 @@ https://sites.google.com/site/wonsunahn/teaching/cs-0449-systems-software
 
 
 https://github.com/onethawt/reverseengineering-reading-list
+
+https://linuxsecurity.expert/training/domains/reverse-engineering
