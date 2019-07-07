@@ -1,5 +1,22 @@
-Hacking: The Art of Exploitation
-Gray Hat Python
-Practical Binary Analysis
-Practical Reverse Engineering
-Secrets of Reverse Engineering
+SECURE PROGRAMMING:
+The Art of Software Security Assessment           https://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426
+Secure Coding in C and C++                        https://www.amazon.com/Secure-Coding-2nd-Software-Engineering/dp/0321822137/
+Gray Hat Python                                   https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921
+Assembly Language Step-by-Step                    https://www.amazon.com/Assembly-Language-Step-Step-Third/dp/0470497025/
+Assembly Language for x86 Processors              https://www.amazon.com/Assembly-Language-x86-Processors-7th/dp/0133769402/
+
+REVERSE ENGINEERING/VULNERABILITY RESEARCH:
+Practical Binary Analysis                         https://www.amazon.com/Practical-Binary-Analysis-Instrumentation-Disassembly-ebook/dp/B07BPKWJVT
+Practical Reverse Engineering                     https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315
+Secrets of Reverse Engineering                    https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817
+The Shellcoder's Handbook                         https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X/
+Learning Linux Binary Analysis                    https://www.amazon.com/Learning-Binary-Analysis-elfmaster-ONeill/dp/1782167102
+
+TOOLS:
+Debugging with GDB                                https://www.amazon.com/Debugging-GDB-GNU-Source-Level-Debugger/dp/1680921436/
+The Art of Debugging with GDB, DDD, and Eclipse   https://www.amazon.com/Art-Debugging-GDB-DDD-Eclipse/dp/1593271743/
+
+
+
+FINISHED:
+Hacking: The Art of Exploitation                  //Almost done
