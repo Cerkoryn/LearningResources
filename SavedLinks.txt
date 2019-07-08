@@ -9,3 +9,5 @@ https://github.com/onethawt/reverseengineering-reading-list
 https://github.com/wtsxDev/reverse-engineering
 
 https://linuxsecurity.expert/training/domains/reverse-engineering
+
+https://ropemporium.com/
