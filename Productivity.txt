@@ -5,3 +5,5 @@ https://www.reddit.com/r/unixporn/comments/ccyb06/tmux_tmux_and_vim_is_life_chan
 https://github.com/manikandanraji/tmux
 https://www.reddit.com/r/unixporn/comments/cf5ewf/i3gaps_gruvbox_gruvbox_everywhere/
 https://www.reddit.com/r/vim/wiki/index
+http://www.vimgenius.com/
+https://www.openvim.com/
